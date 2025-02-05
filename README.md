@@ -13,9 +13,7 @@ Welcome to the official repository of Viral.AI, a website tailored for optimizin
 Installation & Running:
 
   **Clone the Repository **
-```bash
-   git clone https://github.com/mkandrewhuang301/viral.ai.git (https://github.com/mkandrewhuang301/viral.ai.git)
-```
+
 
  **Install Package Dependencies**
 
